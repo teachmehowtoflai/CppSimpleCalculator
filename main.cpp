@@ -38,7 +38,7 @@ int main()
 
         //asking for numbers
         cout << endl << endl;
-        cout << "#-----#" << endl;
+        cout << "#--teachmehowtoflai--#" << endl;
         cout << "First Number: ";
         cin >> first;
         cout << "Second Number: ";
